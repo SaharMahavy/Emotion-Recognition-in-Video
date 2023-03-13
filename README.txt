@@ -16,7 +16,8 @@ The .zip folder contains the "Final Project" folder which contains:
  All of the videos in the outputs folder were made using the "create_timeline_plot" function that is coded in the notebook.
  
 
-The project was written completely within "Google Colab", so the default base path of the project is set accordingly, and the "drive.mount" function was in use.
+The project was written completely within "Google Colab", so the default base path of the project is set accordingly,
+and the "drive.mount" function was in use.
 Changing the "base_path" variable placed in the 4th cell of the notebook should work as long as the hierarchy of the files remains.
 The correct hierarchy is:
 Any working directory should contain the notebook itself aswell as the data and outputs folders. 
