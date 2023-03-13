@@ -1,4 +1,9 @@
 Hello!
+Emotion Recognition in Video, final project for Applied Science - Deep Learning Workshop.
+Omri Shmueli
+Sahar Machavy
+Nir Dar
+Ron Fasher
 
 This README file is here in order to prevent any confusions regarding the content of the .zip folder in the submission of this project, and to make sure it is run appropriately.
 
