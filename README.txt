@@ -1,4 +1,5 @@
 Hello!
+
 The project 'Emotion Recognition in Video' has been done as a final project of Applied Science - Deep Learning Workshop (with Dr. Oren Elisha and Oded Ovadia).
 
 This README file is here in order to prevent any confusions regarding the content of the .zip folder in the submission of this project, and to make sure it is run appropriately.
